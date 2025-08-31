@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋🏾 Hey there! I'm Kai<br>🎓  Master’s student at Georgia State University (MS in Information Systems)<br>💻 Passionate about cybersecurity, web development, and making tech more inclusive<br>🌱 Currently diving into Java, machine learning, and building better user experiences<br>📬 Reach me: kai.francis0225@gmail.com<br>⚡ Fun Fact: Proud Black woman in tech—breaking barriers and writing code!<br><br>Let’s build something meaningful 🌍
+👋🏾 Hey there! I'm Kai<br>🎓  Master’s student at Georgia State University (MS in Information Systems)<br>💻 Passionate about cybersecurity, web development, and making tech more inclusive<br>🌱 Currently diving into Java, machine learning, and building better user experiences<br>📬 Reach me: kai.francis0225@gmail.com<br>
 
 
 ## 🌐 Socials:
